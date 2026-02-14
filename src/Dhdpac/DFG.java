@@ -6,6 +6,7 @@ public class DFG {
  int d=0;
  int e=0;
  string b="DFG";
+ string f="DFG";
 
  publec void DFG(){
     if (a>10){
