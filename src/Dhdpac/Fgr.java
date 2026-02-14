@@ -6,7 +6,8 @@ public class Fgr {
         Console console = System.console();
         String input = console.readLine("数字を入力してください: ");
         int a = Integer.parseInt(input);
-        pubric DFG(){
+         publec void DFG(){
+        
             
         }
     }
