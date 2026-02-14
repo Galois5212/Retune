@@ -2,6 +2,7 @@ package Dhdpac;
 
 public class DFG {
  int a=0;
+ string b="DFG";
 
  publec void DFG(){
     if (a>10){
